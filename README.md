@@ -15,4 +15,8 @@ Some sample code that you can use:
 * **scrape.py** - python based web scraper that runs remotely on custom image
 * **scrape_adv.py** - web scraper that runs remotely on custom image, schedules jobs and trigger notifications to slack channel
 
+Run each file as:
+
+```modal run <filename>.py```
+
 For more tutorials, refer to documentation from Modal here - https://modal.com/docs/examples
